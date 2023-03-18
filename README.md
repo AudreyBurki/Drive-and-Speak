@@ -4,7 +4,7 @@ Ever experienced that speaking may become more difficult when driving, cooking o
 
 We just finished data collection for the first pilot experiment, where we looked at how much practice is needed and how we could measure differences between and within participants in the driving performance. We looked at two measures: variability in velocity (whether participants tend to keep the same speed or vary their speed a lot) and at variability in lateral position. We are currently setting up the first experiment in which participants will speak while driving, we will look at how their diring and speaking performance relate to one another. 
 
-Collaborators on this project: Pam Fuhrmeister, Marie Hansen, Audrey Bürki
+Collaborators on this project: [Pam Fuhrmeister](https://pamfuhrmeister.github.io/), Marie Hansen, Audrey Bürki
 
 ![Buerki_19102022_Scholz_0224](https://user-images.githubusercontent.com/28299451/225571727-3c68ccf6-6de0-4108-a318-be731f5826cc.jpg)
 ![Buerki_19102022_Scholz_0249](https://user-images.githubusercontent.com/28299451/225571806-3433ec36-c761-4feb-ae1d-aeb81c4bac6b.jpg)
