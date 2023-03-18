@@ -2,6 +2,8 @@
 
 Ever experienced that speaking may become more difficult when driving, cooking or playing the piano? This suggests that speaking is not as automatic as it first seems. In this project, funded by the DFG and part of the [CRC on variability in language](https://www.sfb1287.uni-potsdam.de/en/overview/) we use a driving simulator to better understand the links between planning utterances and other cognitive resources such as attention. 
 
+We just finished data collection for the first pilot experiment, where we looked at how much practice is needed and how we could measure differences between and within participants in the driving performance. We looked at two measures: variability in velocity (whether participants tend to keep the same speed or vary their speed a lot) and at variability in lateral position. We are currently setting up the first experiment in which participants will speak while driving, we will look at how their diring and speaking performance relate to one another. 
+
 Collaborators on this project: Pam Fuhrmeister, Marie Hansen, Audrey Bürki
 
 ![Buerki_19102022_Scholz_0224](https://user-images.githubusercontent.com/28299451/225571727-3c68ccf6-6de0-4108-a318-be731f5826cc.jpg)
