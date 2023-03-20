@@ -1,8 +1,9 @@
 # Drive-and-Speak
 
-Ever experienced that speaking may become more difficult when driving, cooking or playing the piano? This suggests that speaking is not as automatic as it first seems. In this project, funded by the DFG and part of the [CRC on variability in language](https://www.sfb1287.uni-potsdam.de/en/overview/) we use a driving simulator to better understand the links between planning utterances and other cognitive resources such as attention. 
+Ever experienced that speaking is more difficult when driving, cooking or playing the piano? 
+This suggests that speaking is not as automatic as it first seems. In this project, part of the [CRC on variability in language](https://www.sfb1287.uni-potsdam.de/en/overview/) funded by the DFG, we use a driving simulator to better understand the links between planning utterances and other cognitive resources, such as attention. 
 
-We just finished data collection for the first pilot experiment, where we looked at how much practice is needed and how we could measure differences between and within participants in the driving performance. We looked at two measures: variability in velocity (whether participants tend to keep the same speed or vary their speed a lot) and at variability in lateral position. We are currently setting up the first experiment in which participants will speak while driving, we will look at how their diring and speaking performance relate to one another. 
+We just finished data collection for the first pilot experiment, where we looked at how much practice is needed and how we could measure differences between and within participants in the driving performance. We looked at two measures: variability in velocity (whether participants tend to keep the same speed or vary their speed a lot) and variability in lateral position. We are currently setting up the first experiment in which participants will speak while driving, we will look at how their driving and speaking performances relate to one another. 
 
 Collaborators on this project: [Pam Fuhrmeister](https://pamfuhrmeister.github.io/), Marie Hansen, Audrey Bürki
 
